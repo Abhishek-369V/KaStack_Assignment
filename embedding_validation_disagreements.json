@@ -1,0 +1,2370 @@
+[
+  {
+    "message_id": "MSG_0464",
+    "message": "Please note: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.441
+  },
+  {
+    "message_id": "MSG_0239",
+    "message": "For today: For my profile, i live near the central library.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.355
+  },
+  {
+    "message_id": "MSG_0370",
+    "message": "Quick update: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.355
+  },
+  {
+    "message_id": "MSG_0441",
+    "message": "Can you help? For my profile, i usually study after dinner.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.307
+  },
+  {
+    "message_id": "MSG_0392",
+    "message": "Can you help? The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.276
+  },
+  {
+    "message_id": "MSG_0429",
+    "message": "FYI: For my profile, i live near the central library.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.268
+  },
+  {
+    "message_id": "MSG_0401",
+    "message": "I need you to back up the project files by 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.243
+  },
+  {
+    "message_id": "MSG_0864",
+    "message": "One more thing: I need you to back up the project files by 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.218
+  },
+  {
+    "message_id": "MSG_0819",
+    "message": "Please note: Share the meeting notes is due on 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.212
+  },
+  {
+    "message_id": "MSG_0851",
+    "message": "Please note: Prepare the demo video is due on 2026-09-07.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.21
+  },
+  {
+    "message_id": "MSG_0103",
+    "message": "Important: Are you available for the technical interview at 16:00 on 2026-09-05? Location: the main office.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.195
+  },
+  {
+    "message_id": "MSG_0393",
+    "message": "Quick update: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.192
+  },
+  {
+    "message_id": "MSG_0183",
+    "message": "Just checking\u2014Just so you know, my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.191
+  },
+  {
+    "message_id": "MSG_0413",
+    "message": "Quick update: Are you available for the technical interview at 12:00 on 2026-09-05? Location: the main office.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.191
+  },
+  {
+    "message_id": "MSG_0774",
+    "message": "Just checking\u2014The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.189
+  },
+  {
+    "message_id": "MSG_0552",
+    "message": "Please submit the weekly report by 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.175
+  },
+  {
+    "message_id": "MSG_0305",
+    "message": "Please note: Just so you know, my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.172
+  },
+  {
+    "message_id": "MSG_0855",
+    "message": "One more thing: Just so you know, my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.171
+  },
+  {
+    "message_id": "MSG_0540",
+    "message": "For today: Just so you know, my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.171
+  },
+  {
+    "message_id": "MSG_0756",
+    "message": "FYI: Just so you know, my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.171
+  },
+  {
+    "message_id": "MSG_0632",
+    "message": "Quick update: For my profile, i usually study after dinner.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.168
+  },
+  {
+    "message_id": "MSG_0098",
+    "message": "Quick update: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.161
+  },
+  {
+    "message_id": "MSG_0888",
+    "message": "Quick update: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.161
+  },
+  {
+    "message_id": "MSG_0849",
+    "message": "Please note: Are you available for the design review at 16:00 on 2026-09-05? Location: the main office.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.16
+  },
+  {
+    "message_id": "MSG_0846",
+    "message": "Quick update: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.16
+  },
+  {
+    "message_id": "MSG_0307",
+    "message": "Hi, Can you send the revised presentation before 2026-09-02?",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.159
+  },
+  {
+    "message_id": "MSG_0825",
+    "message": "Quick update: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.159
+  },
+  {
+    "message_id": "MSG_0713",
+    "message": "Quick update: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.159
+  },
+  {
+    "message_id": "MSG_0669",
+    "message": "Quick update: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.158
+  },
+  {
+    "message_id": "MSG_0052",
+    "message": "Quick update: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.158
+  },
+  {
+    "message_id": "MSG_0327",
+    "message": "For today: Are you available for the college seminar at 9:00 on 2026-09-10? Location: the training hall.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.158
+  },
+  {
+    "message_id": "MSG_0724",
+    "message": "Quick update: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.156
+  },
+  {
+    "message_id": "MSG_0775",
+    "message": "Just checking\u2014Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.156
+  },
+  {
+    "message_id": "MSG_0444",
+    "message": "Quick update: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.156
+  },
+  {
+    "message_id": "MSG_0116",
+    "message": "Quick update: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.155
+  },
+  {
+    "message_id": "MSG_0690",
+    "message": "For today: Prepare the demo video is due on 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.154
+  },
+  {
+    "message_id": "MSG_0289",
+    "message": "Important: Can you finish the test cases before 2026-09-02?",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.154
+  },
+  {
+    "message_id": "MSG_0379",
+    "message": "One more thing: Please submit the weekly report by 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.154
+  },
+  {
+    "message_id": "MSG_0343",
+    "message": "Just checking\u2014You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.153
+  },
+  {
+    "message_id": "MSG_0236",
+    "message": "Quick update: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.15
+  },
+  {
+    "message_id": "MSG_0348",
+    "message": "Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.148
+  },
+  {
+    "message_id": "MSG_0836",
+    "message": "Quick update: Remember that i use dark mode.",
+    "rule_based_category": "personal_information",
+    "confidence": 0.85,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.145
+  },
+  {
+    "message_id": "MSG_0490",
+    "message": "Quick update: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.145
+  },
+  {
+    "message_id": "MSG_0226",
+    "message": "FYI: I need you to verify the dataset labels by 2026-09-02.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.143
+  },
+  {
+    "message_id": "MSG_0460",
+    "message": "Quick update: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.143
+  },
+  {
+    "message_id": "MSG_0816",
+    "message": "Quick update: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.143
+  },
+  {
+    "message_id": "MSG_0457",
+    "message": "Can you help? If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.143
+  },
+  {
+    "message_id": "MSG_0277",
+    "message": "Quick update: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.142
+  },
+  {
+    "message_id": "MSG_0565",
+    "message": "Are you available for the design review at 9:00 on 2026-09-10? Location: the training hall.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.139
+  },
+  {
+    "message_id": "MSG_0326",
+    "message": "Quick update: Remember that my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.139
+  },
+  {
+    "message_id": "MSG_0026",
+    "message": "Quick update: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.138
+  },
+  {
+    "message_id": "MSG_0313",
+    "message": "Quick update: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.137
+  },
+  {
+    "message_id": "MSG_0096",
+    "message": "Quick update: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.137
+  },
+  {
+    "message_id": "MSG_0597",
+    "message": "Quick update: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.137
+  },
+  {
+    "message_id": "MSG_0414",
+    "message": "One more thing: Are you available for the design review at 16:00 on 2026-09-05? Location: the main office.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.135
+  },
+  {
+    "message_id": "MSG_0384",
+    "message": "Hi, Are you available for the college seminar at 16:00 on 2026-09-05? Location: the main office.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.134
+  },
+  {
+    "message_id": "MSG_0491",
+    "message": "Quick update: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.131
+  },
+  {
+    "message_id": "MSG_0240",
+    "message": "Just checking\u2014The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.131
+  },
+  {
+    "message_id": "MSG_0039",
+    "message": "For today: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0439",
+    "message": "FYI: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0728",
+    "message": "Can you help? Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0180",
+    "message": "One more thing: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0469",
+    "message": "Hi, Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0428",
+    "message": "Important: Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0363",
+    "message": "Can you help? Are you available for the design review at 9:00 on 2026-09-10? Location: the training hall.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0054",
+    "message": "Just checking\u2014The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.13
+  },
+  {
+    "message_id": "MSG_0200",
+    "message": "Just checking\u2014The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.129
+  },
+  {
+    "message_id": "MSG_0579",
+    "message": "Just checking\u2014Are you available for the technical interview at 9:00 on 2026-09-10? Location: the training hall.",
+    "rule_based_category": "meeting_or_event",
+    "confidence": 0.88,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.129
+  },
+  {
+    "message_id": "MSG_0459",
+    "message": "Just checking\u2014The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.129
+  },
+  {
+    "message_id": "MSG_0024",
+    "message": "Just checking\u2014I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.129
+  },
+  {
+    "message_id": "MSG_0383",
+    "message": "Just checking\u2014The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.128
+  },
+  {
+    "message_id": "MSG_0611",
+    "message": "For my profile, i usually study after dinner.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.128
+  },
+  {
+    "message_id": "MSG_0433",
+    "message": "Just checking\u2014The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.128
+  },
+  {
+    "message_id": "MSG_0755",
+    "message": "Quick update: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.127
+  },
+  {
+    "message_id": "MSG_0189",
+    "message": "FYI: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.127
+  },
+  {
+    "message_id": "MSG_0644",
+    "message": "Just checking\u2014The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.127
+  },
+  {
+    "message_id": "MSG_0526",
+    "message": "Just checking\u2014Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.127
+  },
+  {
+    "message_id": "MSG_0564",
+    "message": "Quick update: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.127
+  },
+  {
+    "message_id": "MSG_0075",
+    "message": "Just checking\u2014Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.126
+  },
+  {
+    "message_id": "MSG_0132",
+    "message": "Just checking\u2014Maya asked whether the demo was ready.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.125
+  },
+  {
+    "message_id": "MSG_0587",
+    "message": "FYI: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.125
+  },
+  {
+    "message_id": "MSG_0190",
+    "message": "If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.123
+  },
+  {
+    "message_id": "MSG_0267",
+    "message": "Please note: Please note my bank account number 006418220145-18.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.122
+  },
+  {
+    "message_id": "MSG_0629",
+    "message": "Can you help? I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.121
+  },
+  {
+    "message_id": "MSG_0529",
+    "message": "Please note: Free delivery on orders above 499 rupees. Use code SAVE28.",
+    "rule_based_category": "promotional",
+    "confidence": 0.9,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.119
+  },
+  {
+    "message_id": "MSG_0794",
+    "message": "Can you help? The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.118
+  },
+  {
+    "message_id": "MSG_0738",
+    "message": "Just checking\u2014I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.116
+  },
+  {
+    "message_id": "MSG_0524",
+    "message": "Just checking\u2014If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.116
+  },
+  {
+    "message_id": "MSG_0470",
+    "message": "Just checking\u2014The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.116
+  },
+  {
+    "message_id": "MSG_0848",
+    "message": "Quick update: Please note my bank account number 006418220145-28.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.115
+  },
+  {
+    "message_id": "MSG_0303",
+    "message": "One more thing: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.113
+  },
+  {
+    "message_id": "MSG_0273",
+    "message": "Quick update: Your OTP is 482193-20. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.113
+  },
+  {
+    "message_id": "MSG_0795",
+    "message": "For today: Share the meeting notes is due on 2026-09-06.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.113
+  },
+  {
+    "message_id": "MSG_0764",
+    "message": "Just checking\u2014The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.112
+  },
+  {
+    "message_id": "MSG_0876",
+    "message": "Important: For my profile, i usually study after dinner.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.112
+  },
+  {
+    "message_id": "MSG_0272",
+    "message": "Hi, For my profile, i usually study after dinner.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.112
+  },
+  {
+    "message_id": "MSG_0107",
+    "message": "Important: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.112
+  },
+  {
+    "message_id": "MSG_0290",
+    "message": "Just checking\u2014The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.111
+  },
+  {
+    "message_id": "MSG_0161",
+    "message": "Just checking\u2014The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.111
+  },
+  {
+    "message_id": "MSG_0516",
+    "message": "Please note: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.111
+  },
+  {
+    "message_id": "MSG_0033",
+    "message": "Just checking\u2014The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.111
+  },
+  {
+    "message_id": "MSG_0225",
+    "message": "Please note: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.107
+  },
+  {
+    "message_id": "MSG_0559",
+    "message": "Please note: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.107
+  },
+  {
+    "message_id": "MSG_0041",
+    "message": "For today: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.107
+  },
+  {
+    "message_id": "MSG_0110",
+    "message": "FYI: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.106
+  },
+  {
+    "message_id": "MSG_0377",
+    "message": "One more thing: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.106
+  },
+  {
+    "message_id": "MSG_0198",
+    "message": "Hi, If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.106
+  },
+  {
+    "message_id": "MSG_0580",
+    "message": "Important: If possible, review the file before the meeting.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.106
+  },
+  {
+    "message_id": "MSG_0387",
+    "message": "The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.105
+  },
+  {
+    "message_id": "MSG_0421",
+    "message": "Just checking\u2014For my profile, i live near the central library.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.105
+  },
+  {
+    "message_id": "MSG_0207",
+    "message": "FYI: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.104
+  },
+  {
+    "message_id": "MSG_0462",
+    "message": "Can you help? The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.103
+  },
+  {
+    "message_id": "MSG_0164",
+    "message": "Just checking\u2014The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.103
+  },
+  {
+    "message_id": "MSG_0593",
+    "message": "Just checking\u2014The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.103
+  },
+  {
+    "message_id": "MSG_0869",
+    "message": "Please note: For my profile, i live near the central library.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.102
+  },
+  {
+    "message_id": "MSG_0048",
+    "message": "One more thing: For my profile, i live near the central library.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.102
+  },
+  {
+    "message_id": "MSG_0333",
+    "message": "Just checking\u2014The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.102
+  },
+  {
+    "message_id": "MSG_0466",
+    "message": "Hi, You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.101
+  },
+  {
+    "message_id": "MSG_0482",
+    "message": "The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.099
+  },
+  {
+    "message_id": "MSG_0691",
+    "message": "Can you help? The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.099
+  },
+  {
+    "message_id": "MSG_0510",
+    "message": "I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.099
+  },
+  {
+    "message_id": "MSG_0889",
+    "message": "For today: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.099
+  },
+  {
+    "message_id": "MSG_0246",
+    "message": "The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.093
+  },
+  {
+    "message_id": "MSG_0558",
+    "message": "The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.092
+  },
+  {
+    "message_id": "MSG_0892",
+    "message": "Remember that my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.09
+  },
+  {
+    "message_id": "MSG_0243",
+    "message": "Just checking\u2014Your OTP is 482193-50. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.089
+  },
+  {
+    "message_id": "MSG_0520",
+    "message": "Please note: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.089
+  },
+  {
+    "message_id": "MSG_0030",
+    "message": "FYI: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.088
+  },
+  {
+    "message_id": "MSG_0709",
+    "message": "Hi, The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.088
+  },
+  {
+    "message_id": "MSG_0538",
+    "message": "One more thing: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.088
+  },
+  {
+    "message_id": "MSG_0704",
+    "message": "Important: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.088
+  },
+  {
+    "message_id": "MSG_0176",
+    "message": "For today: The project folder was reorganized.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.088
+  },
+  {
+    "message_id": "MSG_0863",
+    "message": "Hi, The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.087
+  },
+  {
+    "message_id": "MSG_0284",
+    "message": "One more thing: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.087
+  },
+  {
+    "message_id": "MSG_0589",
+    "message": "Can you help? The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.087
+  },
+  {
+    "message_id": "MSG_0840",
+    "message": "The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.084
+  },
+  {
+    "message_id": "MSG_0791",
+    "message": "Please note: Your OTP is 482193-10. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.083
+  },
+  {
+    "message_id": "MSG_0274",
+    "message": "Hi, The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0509",
+    "message": "FYI: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0442",
+    "message": "Can you help? The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0350",
+    "message": "Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0091",
+    "message": "For today: The cafeteria closes at 8 PM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0489",
+    "message": "Please note: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.082
+  },
+  {
+    "message_id": "MSG_0285",
+    "message": "For today: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.081
+  },
+  {
+    "message_id": "MSG_0773",
+    "message": "Important: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.081
+  },
+  {
+    "message_id": "MSG_0685",
+    "message": "For today: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.081
+  },
+  {
+    "message_id": "MSG_0084",
+    "message": "Hi, I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.081
+  },
+  {
+    "message_id": "MSG_0402",
+    "message": "One more thing: I might prefer evening meetings now.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.081
+  },
+  {
+    "message_id": "MSG_0705",
+    "message": "One more thing: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0279",
+    "message": "Please note: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0247",
+    "message": "Hi, The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0710",
+    "message": "Hi, The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0079",
+    "message": "FYI: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0374",
+    "message": "Can you help? Remember that my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0874",
+    "message": "Important: Remember that my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0059",
+    "message": "Important: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0336",
+    "message": "For today: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0677",
+    "message": "One more thing: The new Python version is available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0134",
+    "message": "Hi, Remember that my T-shirt size is medium.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0214",
+    "message": "Important: The library has extended weekend hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.08
+  },
+  {
+    "message_id": "MSG_0262",
+    "message": "You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.079
+  },
+  {
+    "message_id": "MSG_0505",
+    "message": "For today: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.078
+  },
+  {
+    "message_id": "MSG_0751",
+    "message": "Hi, Please note my bank account number 006418220145-48.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.078
+  },
+  {
+    "message_id": "MSG_0596",
+    "message": "For today: Your OTP is 482193-30. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.077
+  },
+  {
+    "message_id": "MSG_0859",
+    "message": "Hi, Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.075
+  },
+  {
+    "message_id": "MSG_0492",
+    "message": "Please note: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.072
+  },
+  {
+    "message_id": "MSG_0217",
+    "message": "Please note: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.071
+  },
+  {
+    "message_id": "MSG_0037",
+    "message": "One more thing: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.07
+  },
+  {
+    "message_id": "MSG_0493",
+    "message": "Important: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.07
+  },
+  {
+    "message_id": "MSG_0635",
+    "message": "Hi, The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.07
+  },
+  {
+    "message_id": "MSG_0213",
+    "message": "FYI: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.07
+  },
+  {
+    "message_id": "MSG_0886",
+    "message": "For today: The review could be Friday afternoon.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.07
+  },
+  {
+    "message_id": "MSG_0785",
+    "message": "Please note: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.069
+  },
+  {
+    "message_id": "MSG_0521",
+    "message": "Important: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0786",
+    "message": "FYI: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0801",
+    "message": "For today: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0354",
+    "message": "Can you help? Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0278",
+    "message": "One more thing: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0230",
+    "message": "Can you help? You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0502",
+    "message": "Hi, Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0133",
+    "message": "Important: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0770",
+    "message": "Please note: Let us meet sometime next week.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0742",
+    "message": "One more thing: You may like our new student plan.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "promotional",
+    "embedding_similarity": 0.068
+  },
+  {
+    "message_id": "MSG_0776",
+    "message": "FYI: Send the expense receipt is due on 2026-09-06.",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.067
+  },
+  {
+    "message_id": "MSG_0291",
+    "message": "The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.066
+  },
+  {
+    "message_id": "MSG_0477",
+    "message": "The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.065
+  },
+  {
+    "message_id": "MSG_0768",
+    "message": "For today: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.064
+  },
+  {
+    "message_id": "MSG_0188",
+    "message": "For today: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.063
+  },
+  {
+    "message_id": "MSG_0675",
+    "message": "For today: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.063
+  },
+  {
+    "message_id": "MSG_0386",
+    "message": "FYI: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.062
+  },
+  {
+    "message_id": "MSG_0528",
+    "message": "For today: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.062
+  },
+  {
+    "message_id": "MSG_0679",
+    "message": "For today: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.062
+  },
+  {
+    "message_id": "MSG_0152",
+    "message": "Hi, The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.062
+  },
+  {
+    "message_id": "MSG_0323",
+    "message": "Can you help? Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.061
+  },
+  {
+    "message_id": "MSG_0288",
+    "message": "One more thing: Your OTP is 482193-90. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.061
+  },
+  {
+    "message_id": "MSG_0506",
+    "message": "Hi, The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.06
+  },
+  {
+    "message_id": "MSG_0486",
+    "message": "One more thing: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.06
+  },
+  {
+    "message_id": "MSG_0159",
+    "message": "Hi, The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.06
+  },
+  {
+    "message_id": "MSG_0654",
+    "message": "Important: Could you send it soon?",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0672",
+    "message": "For today: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0443",
+    "message": "Important: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0820",
+    "message": "Please note: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0090",
+    "message": "FYI: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0399",
+    "message": "One more thing: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0478",
+    "message": "Hi, The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0598",
+    "message": "For today: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0582",
+    "message": "Please note: The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0286",
+    "message": "Hi, Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0525",
+    "message": "Please note: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0474",
+    "message": "Can you help? The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0463",
+    "message": "Hi, The weather forecast says light rain.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0263",
+    "message": "FYI: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0400",
+    "message": "Important: The support team changed its working hours.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.059
+  },
+  {
+    "message_id": "MSG_0741",
+    "message": "Please note: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.058
+  },
+  {
+    "message_id": "MSG_0434",
+    "message": "Please note: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.058
+  },
+  {
+    "message_id": "MSG_0625",
+    "message": "Please note: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.057
+  },
+  {
+    "message_id": "MSG_0852",
+    "message": "Please note: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.057
+  },
+  {
+    "message_id": "MSG_0879",
+    "message": "For today: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.056
+  },
+  {
+    "message_id": "MSG_0266",
+    "message": "For today: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.054
+  },
+  {
+    "message_id": "MSG_0125",
+    "message": "For today: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.054
+  },
+  {
+    "message_id": "MSG_0570",
+    "message": "Hi, I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.054
+  },
+  {
+    "message_id": "MSG_0555",
+    "message": "For today: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.054
+  },
+  {
+    "message_id": "MSG_0141",
+    "message": "For today: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.054
+  },
+  {
+    "message_id": "MSG_0834",
+    "message": "Your OTP is 482193. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.053
+  },
+  {
+    "message_id": "MSG_0057",
+    "message": "Please note: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.052
+  },
+  {
+    "message_id": "MSG_0782",
+    "message": "Hi, The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.052
+  },
+  {
+    "message_id": "MSG_0406",
+    "message": "Hi, The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.051
+  },
+  {
+    "message_id": "MSG_0320",
+    "message": "Hi, The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.051
+  },
+  {
+    "message_id": "MSG_0523",
+    "message": "FYI: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.051
+  },
+  {
+    "message_id": "MSG_0149",
+    "message": "Hi, The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.051
+  },
+  {
+    "message_id": "MSG_0070",
+    "message": "Please note: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0324",
+    "message": "For today: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0696",
+    "message": "One more thing: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0322",
+    "message": "FYI: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0609",
+    "message": "FYI: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0235",
+    "message": "Can you help? The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.05
+  },
+  {
+    "message_id": "MSG_0440",
+    "message": "FYI: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0068",
+    "message": "One more thing: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0329",
+    "message": "FYI: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0830",
+    "message": "Please note: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0253",
+    "message": "Can you help? The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0186",
+    "message": "Please note: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0732",
+    "message": "Can you help? The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0197",
+    "message": "Please note: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.049
+  },
+  {
+    "message_id": "MSG_0004",
+    "message": "One more thing: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0227",
+    "message": "Important: The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0388",
+    "message": "Can you help? The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0404",
+    "message": "Can you help? Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0021",
+    "message": "One more thing: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0689",
+    "message": "Hi, The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0128",
+    "message": "One more thing: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.048
+  },
+  {
+    "message_id": "MSG_0543",
+    "message": "Important: The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.047
+  },
+  {
+    "message_id": "MSG_0050",
+    "message": "Important: The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.047
+  },
+  {
+    "message_id": "MSG_0734",
+    "message": "Please note: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.046
+  },
+  {
+    "message_id": "MSG_0731",
+    "message": "Important: Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.046
+  },
+  {
+    "message_id": "MSG_0885",
+    "message": "Important: The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.046
+  },
+  {
+    "message_id": "MSG_0012",
+    "message": "FYI: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.045
+  },
+  {
+    "message_id": "MSG_0148",
+    "message": "Can you help? I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.044
+  },
+  {
+    "message_id": "MSG_0533",
+    "message": "One more thing: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.043
+  },
+  {
+    "message_id": "MSG_0563",
+    "message": "FYI: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.043
+  },
+  {
+    "message_id": "MSG_0698",
+    "message": "FYI: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0838",
+    "message": "Can you help? The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0064",
+    "message": "Can you help? The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0008",
+    "message": "Can you help? The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0692",
+    "message": "Important: I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0700",
+    "message": "Can you help? The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0701",
+    "message": "One more thing: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0562",
+    "message": "FYI: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0194",
+    "message": "FYI: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.042
+  },
+  {
+    "message_id": "MSG_0595",
+    "message": "Can you help? Your OTP is 482193-80. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0270",
+    "message": "One more thing: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0872",
+    "message": "Important: The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0854",
+    "message": "Hi, Your OTP is 482193-40. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0224",
+    "message": "One more thing: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0682",
+    "message": "One more thing: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0880",
+    "message": "Important: Your OTP is 482193-60. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0604",
+    "message": "FYI: Your OTP is 482193-70. It expires in 10 minutes.",
+    "rule_based_category": "sensitive_information",
+    "confidence": 0.97,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.041
+  },
+  {
+    "message_id": "MSG_0671",
+    "message": "Important: The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.04
+  },
+  {
+    "message_id": "MSG_0006",
+    "message": "Important: The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.04
+  },
+  {
+    "message_id": "MSG_0452",
+    "message": "Important: The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.04
+  },
+  {
+    "message_id": "MSG_0806",
+    "message": "Can you help? The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.039
+  },
+  {
+    "message_id": "MSG_0025",
+    "message": "FYI: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.039
+  },
+  {
+    "message_id": "MSG_0174",
+    "message": "One more thing: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "personal_information",
+    "embedding_similarity": 0.038
+  },
+  {
+    "message_id": "MSG_0545",
+    "message": "Important: The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "action_required",
+    "embedding_similarity": 0.037
+  },
+  {
+    "message_id": "MSG_0431",
+    "message": "The event registration desk opens at 9 AM.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0325",
+    "message": "The laptop battery is fully charged.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0875",
+    "message": "The report may be needed tomorrow.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0843",
+    "message": "The webinar recording is now available.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0571",
+    "message": "The report template has been updated.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0568",
+    "message": "The training material is on the portal.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0575",
+    "message": "Tomorrow is a public holiday.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0310",
+    "message": "Could you send it soon?",
+    "rule_based_category": "action_required",
+    "confidence": 0.87,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0238",
+    "message": "The building entrance has moved temporarily.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0472",
+    "message": "The shuttle leaves every thirty minutes.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0771",
+    "message": "I will send the login details separately.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  },
+  {
+    "message_id": "MSG_0896",
+    "message": "The office Wi-Fi will be under maintenance tonight.",
+    "rule_based_category": "general_information",
+    "confidence": 0.6,
+    "embedding_nearest_category": "meeting_or_event",
+    "embedding_similarity": 0.0
+  }
+]

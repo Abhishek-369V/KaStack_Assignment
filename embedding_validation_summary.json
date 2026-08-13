@@ -1,0 +1,9 @@
+{
+  "method": "TF-IDF (1-2 grams) + cosine similarity to per-category anchor examples",
+  "anchor_set_size": 75,
+  "anchor_source": "rule-based classifications with confidence >= 0.85",
+  "total_messages_checked": 900,
+  "agreement_rate": 0.6711,
+  "disagreement_count": 296,
+  "note": "general_information has no anchors (rule confidence fixed at 0.60, below threshold) -- by design, since it's a fallback category with no distinguishing pattern of its own."
+}
