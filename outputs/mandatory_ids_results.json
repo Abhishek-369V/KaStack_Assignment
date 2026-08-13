@@ -1,0 +1,92 @@
+[
+  {
+    "message_id": "MSG_0001",
+    "category": "meeting_or_event",
+    "confidence": 0.88,
+    "reason": "explicit calendar update phrasing"
+  },
+  {
+    "message_id": "MSG_0002",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "action verb requested with a date constraint ('by'/'before')"
+  },
+  {
+    "message_id": "MSG_0003",
+    "category": "meeting_or_event",
+    "confidence": 0.88,
+    "reason": "'happens on <date>' meeting/reminder phrasing"
+  },
+  {
+    "message_id": "MSG_0004",
+    "category": "general_information",
+    "confidence": 0.6,
+    "reason": "No task, event, personal, promotional, or sensitive pattern matched; treated as informational default."
+  },
+  {
+    "message_id": "MSG_0005",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Matches home_address pattern; flagged before general classification for safety."
+  },
+  {
+    "message_id": "MSG_0006",
+    "category": "general_information",
+    "confidence": 0.6,
+    "reason": "No task, event, personal, promotional, or sensitive pattern matched; treated as informational default."
+  },
+  {
+    "message_id": "MSG_0007",
+    "category": "action_required",
+    "confidence": 0.87,
+    "reason": "action verb requested with a date constraint ('by'/'before')"
+  },
+  {
+    "message_id": "MSG_0009",
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "first-person personal detail disclosed"
+  },
+  {
+    "message_id": "MSG_0012",
+    "category": "general_information",
+    "confidence": 0.6,
+    "reason": "No task, event, personal, promotional, or sensitive pattern matched; treated as informational default."
+  },
+  {
+    "message_id": "MSG_0013",
+    "category": "sensitive_information",
+    "confidence": 0.97,
+    "reason": "Matches card_number pattern; flagged before general classification for safety."
+  },
+  {
+    "message_id": "MSG_0014",
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "promo code present"
+  },
+  {
+    "message_id": "MSG_0015",
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "promo code present"
+  },
+  {
+    "message_id": "MSG_0016",
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "first-person preference/trait statement"
+  },
+  {
+    "message_id": "MSG_0024",
+    "category": "general_information",
+    "confidence": 0.6,
+    "reason": "No task, event, personal, promotional, or sensitive pattern matched; treated as informational default."
+  },
+  {
+    "message_id": "MSG_0037",
+    "category": "general_information",
+    "confidence": 0.6,
+    "reason": "No task, event, personal, promotional, or sensitive pattern matched; treated as informational default."
+  }
+]
