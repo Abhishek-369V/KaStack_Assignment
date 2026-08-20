@@ -1,0 +1,3892 @@
+[
+  {
+    "message_id": "MSG_0001",
+    "item_id": "EVENT_0001",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0002",
+    "item_id": "TASK_0002",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0003",
+    "item_id": "EVENT_0003",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0007",
+    "item_id": "TASK_0004",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0010",
+    "item_id": "TASK_0005",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0011",
+    "item_id": "EVENT_0006",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0017",
+    "item_id": "TASK_0007",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0019",
+    "item_id": "TASK_0008",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0023",
+    "item_id": "EVENT_0009",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0027",
+    "item_id": "TASK_0010",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0028",
+    "item_id": "TASK_0011",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0031",
+    "item_id": "TASK_0012",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0032",
+    "item_id": "TASK_0013",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0034",
+    "item_id": "EVENT_0014",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0035",
+    "item_id": "TASK_0015",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0036",
+    "item_id": "EVENT_0016",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0038",
+    "item_id": "TASK_0017",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0042",
+    "item_id": "EVENT_0018",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0043",
+    "item_id": "EVENT_0019",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0044",
+    "item_id": "TASK_0020",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0045",
+    "item_id": "TASK_0021",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0046",
+    "item_id": "TASK_0022",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0049",
+    "item_id": "EVENT_0023",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0051",
+    "item_id": "EVENT_0024",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0961",
+    "item_id": "EVENT_0025",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0056",
+    "item_id": "TASK_0026",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0058",
+    "item_id": "TASK_0027",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0060",
+    "item_id": "TASK_0028",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0062",
+    "item_id": "EVENT_0029",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0063",
+    "item_id": "TASK_0030",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0065",
+    "item_id": "TASK_0031",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0066",
+    "item_id": "EVENT_0032",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0067",
+    "item_id": "EVENT_0033",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0072",
+    "item_id": "TASK_0034",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0077",
+    "item_id": "EVENT_0035",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0083",
+    "item_id": "TASK_0036",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0088",
+    "item_id": "TASK_0037",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0089",
+    "item_id": "TASK_0038",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0097",
+    "item_id": "EVENT_0039",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0100",
+    "item_id": "EVENT_0040",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0101",
+    "item_id": "TASK_0041",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0102",
+    "item_id": "TASK_0042",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0103",
+    "item_id": "EVENT_0043",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0111",
+    "item_id": "TASK_0044",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0112",
+    "item_id": "TASK_0045",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0113",
+    "item_id": "TASK_0046",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0114",
+    "item_id": "TASK_0047",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0115",
+    "item_id": "TASK_0048",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0119",
+    "item_id": "TASK_0049",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0121",
+    "item_id": "TASK_0050",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0122",
+    "item_id": "EVENT_0051",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0123",
+    "item_id": "EVENT_0052",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0124",
+    "item_id": "EVENT_0053",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0127",
+    "item_id": "EVENT_0054",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0129",
+    "item_id": "EVENT_0055",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0131",
+    "item_id": "EVENT_0056",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0135",
+    "item_id": "EVENT_0057",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0136",
+    "item_id": "TASK_0058",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0138",
+    "item_id": "EVENT_0059",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0139",
+    "item_id": "TASK_0060",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0144",
+    "item_id": "TASK_0061",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0145",
+    "item_id": "TASK_0062",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0147",
+    "item_id": "TASK_0063",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0150",
+    "item_id": "TASK_0064",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0151",
+    "item_id": "EVENT_0065",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0153",
+    "item_id": "TASK_0066",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0154",
+    "item_id": "EVENT_0067",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0156",
+    "item_id": "EVENT_0068",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0157",
+    "item_id": "TASK_0069",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0160",
+    "item_id": "TASK_0070",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0162",
+    "item_id": "EVENT_0071",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0163",
+    "item_id": "TASK_0072",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0168",
+    "item_id": "EVENT_0073",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0169",
+    "item_id": "EVENT_0074",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0170",
+    "item_id": "TASK_0075",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0171",
+    "item_id": "TASK_0076",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0173",
+    "item_id": "TASK_0077",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0175",
+    "item_id": "TASK_0078",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0177",
+    "item_id": "EVENT_0079",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0178",
+    "item_id": "TASK_0080",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0184",
+    "item_id": "EVENT_0081",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0193",
+    "item_id": "TASK_0082",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0195",
+    "item_id": "TASK_0083",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0201",
+    "item_id": "EVENT_0084",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0203",
+    "item_id": "TASK_0085",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0208",
+    "item_id": "TASK_0086",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0209",
+    "item_id": "EVENT_0087",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0210",
+    "item_id": "TASK_0088",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0215",
+    "item_id": "TASK_0089",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0216",
+    "item_id": "EVENT_0090",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0218",
+    "item_id": "EVENT_0091",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0219",
+    "item_id": "TASK_0092",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0220",
+    "item_id": "TASK_0093",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0221",
+    "item_id": "TASK_0094",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0222",
+    "item_id": "EVENT_0095",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0223",
+    "item_id": "EVENT_0096",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0226",
+    "item_id": "TASK_0097",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0231",
+    "item_id": "TASK_0098",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0232",
+    "item_id": "TASK_0099",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0244",
+    "item_id": "EVENT_0100",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0245",
+    "item_id": "TASK_0101",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0249",
+    "item_id": "EVENT_0102",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0251",
+    "item_id": "TASK_0103",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0252",
+    "item_id": "TASK_0104",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0255",
+    "item_id": "EVENT_0105",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0258",
+    "item_id": "EVENT_0106",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0265",
+    "item_id": "TASK_0107",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0268",
+    "item_id": "EVENT_0108",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0269",
+    "item_id": "TASK_0109",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0271",
+    "item_id": "EVENT_0110",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0275",
+    "item_id": "EVENT_0111",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0280",
+    "item_id": "TASK_0112",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0282",
+    "item_id": "EVENT_0113",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0283",
+    "item_id": "TASK_0114",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0287",
+    "item_id": "TASK_0115",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0289",
+    "item_id": "TASK_0116",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0293",
+    "item_id": "EVENT_0117",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0294",
+    "item_id": "EVENT_0118",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0300",
+    "item_id": "TASK_0119",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0301",
+    "item_id": "TASK_0120",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0302",
+    "item_id": "EVENT_0121",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0306",
+    "item_id": "TASK_0122",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0307",
+    "item_id": "TASK_0123",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0309",
+    "item_id": "TASK_0124",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0859",
+    "item_id": "TASK_0125",
+    "priority": "medium",
+    "reason": "a response/confirmation is being requested",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0311",
+    "item_id": "EVENT_0126",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0312",
+    "item_id": "TASK_0127",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0314",
+    "item_id": "TASK_0128",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0316",
+    "item_id": "EVENT_0129",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0317",
+    "item_id": "TASK_0130",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0327",
+    "item_id": "EVENT_0131",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0330",
+    "item_id": "EVENT_0132",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0331",
+    "item_id": "TASK_0133",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0334",
+    "item_id": "TASK_0134",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0335",
+    "item_id": "TASK_0135",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0338",
+    "item_id": "EVENT_0136",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0339",
+    "item_id": "TASK_0137",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0340",
+    "item_id": "TASK_0138",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0342",
+    "item_id": "EVENT_0139",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0345",
+    "item_id": "TASK_0140",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0356",
+    "item_id": "EVENT_0141",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0357",
+    "item_id": "EVENT_0142",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0358",
+    "item_id": "TASK_0143",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0359",
+    "item_id": "EVENT_0144",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0360",
+    "item_id": "TASK_0145",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0361",
+    "item_id": "TASK_0146",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0363",
+    "item_id": "EVENT_0147",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0365",
+    "item_id": "TASK_0148",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0366",
+    "item_id": "TASK_0149",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0368",
+    "item_id": "TASK_0150",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0369",
+    "item_id": "TASK_0151",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0378",
+    "item_id": "EVENT_0152",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0379",
+    "item_id": "TASK_0153",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0382",
+    "item_id": "EVENT_0154",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0384",
+    "item_id": "EVENT_0155",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0394",
+    "item_id": "TASK_0156",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0396",
+    "item_id": "TASK_0157",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0398",
+    "item_id": "TASK_0158",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0401",
+    "item_id": "TASK_0159",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0405",
+    "item_id": "EVENT_0160",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0407",
+    "item_id": "TASK_0161",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0410",
+    "item_id": "TASK_0162",
+    "priority": "medium",
+    "reason": "a response/confirmation is being requested",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0412",
+    "item_id": "TASK_0163",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0413",
+    "item_id": "EVENT_0164",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0414",
+    "item_id": "EVENT_0165",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0417",
+    "item_id": "TASK_0166",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0418",
+    "item_id": "TASK_0167",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0420",
+    "item_id": "TASK_0168",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0422",
+    "item_id": "TASK_0169",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0423",
+    "item_id": "EVENT_0170",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0424",
+    "item_id": "EVENT_0171",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0425",
+    "item_id": "TASK_0172",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0427",
+    "item_id": "EVENT_0173",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0430",
+    "item_id": "EVENT_0174",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0435",
+    "item_id": "EVENT_0175",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0438",
+    "item_id": "TASK_0176",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0445",
+    "item_id": "EVENT_0177",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0449",
+    "item_id": "EVENT_0178",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0450",
+    "item_id": "EVENT_0179",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0451",
+    "item_id": "TASK_0180",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0455",
+    "item_id": "TASK_0181",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0456",
+    "item_id": "EVENT_0182",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0458",
+    "item_id": "EVENT_0183",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0465",
+    "item_id": "EVENT_0184",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0467",
+    "item_id": "TASK_0185",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0468",
+    "item_id": "TASK_0186",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0473",
+    "item_id": "TASK_0187",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0479",
+    "item_id": "EVENT_0188",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0480",
+    "item_id": "TASK_0189",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0481",
+    "item_id": "TASK_0190",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0483",
+    "item_id": "TASK_0191",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0484",
+    "item_id": "EVENT_0192",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0485",
+    "item_id": "TASK_0193",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0487",
+    "item_id": "TASK_0194",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0488",
+    "item_id": "EVENT_0195",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0495",
+    "item_id": "TASK_0196",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0498",
+    "item_id": "TASK_0197",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0503",
+    "item_id": "TASK_0198",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0508",
+    "item_id": "EVENT_0199",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0511",
+    "item_id": "EVENT_0200",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0512",
+    "item_id": "TASK_0201",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0513",
+    "item_id": "TASK_0202",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0515",
+    "item_id": "TASK_0203",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0517",
+    "item_id": "TASK_0204",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0519",
+    "item_id": "EVENT_0205",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0527",
+    "item_id": "TASK_0206",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0530",
+    "item_id": "TASK_0207",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0531",
+    "item_id": "TASK_0208",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0536",
+    "item_id": "TASK_0209",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0537",
+    "item_id": "TASK_0210",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0546",
+    "item_id": "TASK_0211",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0547",
+    "item_id": "TASK_0212",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0549",
+    "item_id": "EVENT_0213",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0551",
+    "item_id": "TASK_0214",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0552",
+    "item_id": "TASK_0215",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0553",
+    "item_id": "TASK_0216",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0554",
+    "item_id": "TASK_0217",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0556",
+    "item_id": "TASK_0218",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0557",
+    "item_id": "TASK_0219",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0561",
+    "item_id": "TASK_0220",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0565",
+    "item_id": "EVENT_0221",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0566",
+    "item_id": "TASK_0222",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0569",
+    "item_id": "TASK_0223",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0574",
+    "item_id": "TASK_0224",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0577",
+    "item_id": "TASK_0225",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0578",
+    "item_id": "TASK_0226",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0579",
+    "item_id": "EVENT_0227",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0584",
+    "item_id": "EVENT_0228",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0585",
+    "item_id": "TASK_0229",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0588",
+    "item_id": "EVENT_0230",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0590",
+    "item_id": "EVENT_0231",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0592",
+    "item_id": "EVENT_0232",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0600",
+    "item_id": "EVENT_0233",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0601",
+    "item_id": "EVENT_0234",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0602",
+    "item_id": "TASK_0235",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0603",
+    "item_id": "EVENT_0236",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0605",
+    "item_id": "TASK_0237",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0606",
+    "item_id": "EVENT_0238",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0607",
+    "item_id": "TASK_0239",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0612",
+    "item_id": "TASK_0240",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0614",
+    "item_id": "TASK_0241",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0615",
+    "item_id": "TASK_0242",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0616",
+    "item_id": "EVENT_0243",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0926",
+    "item_id": "TASK_0244",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0618",
+    "item_id": "TASK_0245",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0619",
+    "item_id": "EVENT_0246",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0620",
+    "item_id": "TASK_0247",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0621",
+    "item_id": "TASK_0248",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0622",
+    "item_id": "TASK_0249",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0623",
+    "item_id": "EVENT_0250",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0930",
+    "item_id": "TASK_0251",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0628",
+    "item_id": "EVENT_0252",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0630",
+    "item_id": "EVENT_0253",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0631",
+    "item_id": "EVENT_0254",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0633",
+    "item_id": "TASK_0255",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0634",
+    "item_id": "TASK_0256",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0637",
+    "item_id": "EVENT_0257",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0638",
+    "item_id": "TASK_0258",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0639",
+    "item_id": "TASK_0259",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0640",
+    "item_id": "TASK_0260",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0643",
+    "item_id": "EVENT_0261",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0645",
+    "item_id": "EVENT_0262",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0646",
+    "item_id": "EVENT_0263",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0652",
+    "item_id": "TASK_0264",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0653",
+    "item_id": "TASK_0265",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0656",
+    "item_id": "TASK_0266",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0657",
+    "item_id": "TASK_0267",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0948",
+    "item_id": "TASK_0268",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "marked_cancelled"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0659",
+    "item_id": "TASK_0269",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0660",
+    "item_id": "EVENT_0270",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0662",
+    "item_id": "TASK_0271",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0664",
+    "item_id": "EVENT_0272",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0667",
+    "item_id": "TASK_0273",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0967",
+    "item_id": "EVENT_0274",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0670",
+    "item_id": "TASK_0275",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0673",
+    "item_id": "EVENT_0276",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0674",
+    "item_id": "EVENT_0277",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0683",
+    "item_id": "EVENT_0278",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0688",
+    "item_id": "TASK_0279",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0690",
+    "item_id": "TASK_0280",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0693",
+    "item_id": "EVENT_0281",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0694",
+    "item_id": "TASK_0282",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0697",
+    "item_id": "EVENT_0283",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0706",
+    "item_id": "EVENT_0284",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0707",
+    "item_id": "EVENT_0285",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0708",
+    "item_id": "TASK_0286",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0960",
+    "item_id": "EVENT_0287",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled",
+      "response_required"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0716",
+    "item_id": "TASK_0288",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0717",
+    "item_id": "TASK_0289",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0719",
+    "item_id": "EVENT_0290",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0720",
+    "item_id": "TASK_0291",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0722",
+    "item_id": "TASK_0292",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0725",
+    "item_id": "TASK_0293",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0730",
+    "item_id": "TASK_0294",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0736",
+    "item_id": "TASK_0295",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0975",
+    "item_id": "TASK_0296",
+    "priority": "critical",
+    "reason": "explicit urgency marker; deadline moved earlier than originally planned; deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "message_id": "MSG_0743",
+    "item_id": "TASK_0297",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0744",
+    "item_id": "EVENT_0298",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0745",
+    "item_id": "EVENT_0299",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0747",
+    "item_id": "EVENT_0300",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0754",
+    "item_id": "TASK_0301",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0950",
+    "item_id": "TASK_0302",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "marked_cancelled",
+      "marked_completed"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0965",
+    "item_id": "EVENT_0303",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "deadline_within_2_days",
+      "rescheduled"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0929",
+    "item_id": "TASK_0304",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0776",
+    "item_id": "TASK_0305",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0779",
+    "item_id": "TASK_0306",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0985",
+    "item_id": "TASK_0307",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_cancelled",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_0783",
+    "item_id": "TASK_0308",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0784",
+    "item_id": "TASK_0309",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0787",
+    "item_id": "TASK_0310",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0788",
+    "item_id": "EVENT_0311",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0789",
+    "item_id": "EVENT_0312",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0963",
+    "item_id": "EVENT_0313",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0793",
+    "item_id": "EVENT_0314",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0795",
+    "item_id": "TASK_0315",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0797",
+    "item_id": "EVENT_0316",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0798",
+    "item_id": "EVENT_0317",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0799",
+    "item_id": "TASK_0318",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0800",
+    "item_id": "EVENT_0319",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0923",
+    "item_id": "TASK_0320",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0810",
+    "item_id": "EVENT_0321",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0811",
+    "item_id": "TASK_0322",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0814",
+    "item_id": "TASK_0323",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0815",
+    "item_id": "TASK_0324",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1007",
+    "item_id": "TASK_0325",
+    "priority": "critical",
+    "reason": "explicit urgency marker; deadline moved earlier than originally planned; deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "message_id": "MSG_0821",
+    "item_id": "EVENT_0326",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0822",
+    "item_id": "EVENT_0327",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0970",
+    "item_id": "EVENT_0328",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "deadline_within_2_days",
+      "rescheduled"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0949",
+    "item_id": "TASK_0329",
+    "priority": "low",
+    "reason": "Item was explicitly marked completed; no further action needed.",
+    "signals": [
+      "marked_completed"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1010",
+    "item_id": "TASK_0330",
+    "priority": "low",
+    "reason": "Item was explicitly marked completed; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_completed",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_0827",
+    "item_id": "TASK_0331",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_0829",
+    "item_id": "TASK_0332",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0831",
+    "item_id": "EVENT_0333",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0968",
+    "item_id": "EVENT_0334",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0841",
+    "item_id": "EVENT_0335",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0958",
+    "item_id": "EVENT_0336",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "deadline_within_2_days",
+      "rescheduled"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0955",
+    "item_id": "EVENT_0337",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled",
+      "response_required"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0849",
+    "item_id": "EVENT_0338",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0850",
+    "item_id": "TASK_0339",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0977",
+    "item_id": "TASK_0340",
+    "priority": "low",
+    "reason": "Item was explicitly marked completed; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_completed",
+      "urgent_marker"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "message_id": "MSG_1012",
+    "item_id": "TASK_0341",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0860",
+    "item_id": "EVENT_0342",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0861",
+    "item_id": "EVENT_0343",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_1015",
+    "item_id": "TASK_0344",
+    "priority": "low",
+    "reason": "Item was explicitly marked completed; no further action needed.",
+    "signals": [
+      "marked_completed",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0864",
+    "item_id": "TASK_0345",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1005",
+    "item_id": "TASK_0346",
+    "priority": "critical",
+    "reason": "explicit urgency marker; deadline moved earlier than originally planned; deadline is today or already passed",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "urgent_marker"
+    ],
+    "confidence": 0.84
+  },
+  {
+    "message_id": "MSG_0969",
+    "item_id": "EVENT_0347",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0868",
+    "item_id": "EVENT_0348",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0981",
+    "item_id": "TASK_0349",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_cancelled",
+      "urgent_marker"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "message_id": "MSG_0954",
+    "item_id": "EVENT_0350",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0956",
+    "item_id": "EVENT_0351",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0877",
+    "item_id": "EVENT_0352",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0878",
+    "item_id": "EVENT_0353",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0882",
+    "item_id": "EVENT_0354",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0973",
+    "item_id": "TASK_0355",
+    "priority": "low",
+    "reason": "Item was explicitly marked completed; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_completed",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_1011",
+    "item_id": "TASK_0356",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "marked_cancelled",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0921",
+    "item_id": "TASK_0357",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0894",
+    "item_id": "EVENT_0358",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0964",
+    "item_id": "EVENT_0359",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue",
+      "rescheduled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0987",
+    "item_id": "TASK_0360",
+    "priority": "low",
+    "reason": "Item was explicitly cancelled; no further action needed.",
+    "signals": [
+      "deadline_moved_earlier",
+      "deadline_today_or_overdue",
+      "marked_cancelled",
+      "response_required",
+      "urgent_marker"
+    ],
+    "confidence": 0.99
+  },
+  {
+    "message_id": "MSG_0900",
+    "item_id": "EVENT_0361",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0972",
+    "item_id": "TASK_0362",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0974",
+    "item_id": "TASK_0363",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0976",
+    "item_id": "TASK_0364",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0978",
+    "item_id": "TASK_0365",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0980",
+    "item_id": "TASK_0366",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1002",
+    "item_id": "TASK_0367",
+    "priority": "high",
+    "reason": "deadline is today or already passed; a response/confirmation is being requested",
+    "signals": [
+      "deadline_today_or_overdue",
+      "response_required"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0984",
+    "item_id": "TASK_0368",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0986",
+    "item_id": "TASK_0369",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1008",
+    "item_id": "TASK_0370",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_0990",
+    "item_id": "TASK_0371",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1026",
+    "item_id": "EVENT_0372",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1028",
+    "item_id": "EVENT_0376",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1020",
+    "item_id": "EVENT_0373",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1022",
+    "item_id": "TASK_0374",
+    "priority": "medium",
+    "reason": "deadline is within 2 days",
+    "signals": [
+      "deadline_within_2_days"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1024",
+    "item_id": "EVENT_0375",
+    "priority": "low",
+    "reason": "No strong signals found; default low priority.",
+    "signals": [],
+    "confidence": 0.6
+  },
+  {
+    "message_id": "MSG_1030",
+    "item_id": "TASK_0377",
+    "priority": "high",
+    "reason": "deadline is today or already passed",
+    "signals": [
+      "deadline_today_or_overdue"
+    ],
+    "confidence": 0.68
+  },
+  {
+    "message_id": "MSG_1032",
+    "item_id": "EVENT_0378",
+    "priority": "medium",
+    "reason": "deadline is within 2 days",
+    "signals": [
+      "deadline_within_2_days"
+    ],
+    "confidence": 0.68
+  }
+]
