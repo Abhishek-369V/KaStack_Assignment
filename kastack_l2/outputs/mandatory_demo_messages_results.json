@@ -1,0 +1,146 @@
+[
+  {
+    "message_id": "DEMO_001",
+    "message": "The deadline to confirm the interview slot is now tomorrow at 10 AM. This is urgent.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_002",
+    "message": "Confirmed: email the signed document has been completed.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_003",
+    "message": "Cancel update the project tracker; it is no longer needed.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_004",
+    "message": "Any update on upload the assignment?",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_005",
+    "message": "Has the material for our earlier model-results review been handled?",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_006",
+    "message": "One message says Friday, but the latest instruction says update the project tracker is due on 2026-10-06.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_007",
+    "message": "The internship orientation has moved to 2026-10-07 at 15:00.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_008",
+    "message": "The team stand-up has been cancelled.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_009",
+    "message": "The date for internship orientation stays the same, but the time is now 17:30.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_010",
+    "message": "New task: test the optimized assistant in offline mode by 2026-10-09.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_011",
+    "message": "A new latency-review meeting is scheduled for 2026-10-08 at 11:00 on Google Meet.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_012",
+    "message": "Your fictional OTP is 864219. Do not share it.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_013",
+    "message": "Use temporary password EdgeDemo#771 for the sample account.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_014",
+    "message": "Deliver the demo device to 22 Green Park Road, Chennai.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_015",
+    "message": "My private medical note mentions a vitamin B12 deficiency.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_016",
+    "message": "Confirm the interview slot might already be finished, but I cannot confirm it.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_017",
+    "message": "We may move the internship orientation; I will confirm the schedule later.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_018",
+    "message": "The optional community newsletter is available.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_019",
+    "message": "Save 30% on an optional online course this weekend.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_020",
+    "message": "The deadline for upload the assignment has been extended to 2026-10-20.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_021",
+    "message": "This is another status request about complete the onboarding form, not a new task.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_022",
+    "message": "Was the compliance form approved by the finance director?",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_023",
+    "message": "The deadline may be Monday, or it may be Wednesday. Wait for the official update.",
+    "classification": null,
+    "priority": null
+  },
+  {
+    "message_id": "DEMO_024",
+    "message": "Integration token: tok_demo_L2_91XZ. Use it only in the local test.",
+    "classification": null,
+    "priority": null
+  }
+]
