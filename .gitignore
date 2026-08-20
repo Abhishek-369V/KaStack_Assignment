@@ -1,4 +1,15 @@
 messages.csv
 mandatory_demo_ids.csv
+l2_messages.csv
+l2_demo_messages.csv
+l2_demo_queries.csv
+*.zip
+outputs/_combined_l1_l2_messages.csv
+l2_dataset_README.txt
+venv/
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
+.DS_Store
+*.log
+.env
