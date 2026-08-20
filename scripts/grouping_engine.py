@@ -1,17 +1,13 @@
 """
 L2 Part 2: Related-Message Grouping
 --------------------------------------
-Groups messages referring to the same task/meeting/event/subject, reusing
-Part 1's item-linkage (normalized action-phrase matching, timestamp-aware)
-as the grouping key -- two messages Part 1 resolved to the same item_id
-are by definition the same subject. This keeps Part 1 and Part 2
-consistent rather than using two independent, possibly contradictory
-similarity heuristics.
+Groups messages referring to the same task/meeting/event/subject, reusing Part 1's item-linkage 
+(normalized action-phrase matching, timestamp-aware) as the grouping key -- two messages Part 1 resolved to the same item_id
+are by definition the same subject. This keeps Part 1 and Part 2 consistent rather than using two independent, 
+possibly contradictory similarity heuristics.
 
-Status is determined by the most recent relevant signal in the group's
-messages (not majority vote). Latest deadline = date in the most recent
-message that mentions one. Summary is built only from what the messages
-literally say.
+Status is determined by the most recent relevant signal in the group's messages (not majority vote). 
+Latest deadline = date in the most recent message that mentions one. Summary is built only from what the messages literally say.
 """
 
 import pandas as pd
