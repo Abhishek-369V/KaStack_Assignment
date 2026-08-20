@@ -1,0 +1,14 @@
+{
+  "baseline_tfidf": {
+    "build_time_seconds": 0.1197,
+    "avg_query_time_seconds": 0.003166,
+    "index_size_bytes": 179680,
+    "index_size_kb": 175.47
+  },
+  "optimized_svd": {
+    "build_time_seconds": 0.383,
+    "avg_query_time_seconds": 0.005711,
+    "index_size_bytes": 864000,
+    "index_size_kb": 843.75
+  }
+}

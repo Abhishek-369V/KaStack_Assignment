@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What tasks should I complete today?",
+    "answer": "EVENT_0001 (high): Calendar update: family dinner, 2026-09-19 at 10:00, the library; TASK_0002 (high): Review the privacy checklist; EVENT_0003 (high): Reminder: mentor catch-up; TASK_0004 (high): Reply to the client email; TASK_0005 (high): Pay the electricity bill",
+    "supporting_message_ids": [
+      "MSG_0001",
+      "MSG_0002",
+      "MSG_0003",
+      "MSG_0007",
+      "MSG_0010"
+    ],
+    "group_id": null,
+    "reason": "Filtered 359 priority record(s) matching the requested urgency/date filter; showing up to 5.",
+    "privacy_route": "local"
+  },
+  {
+    "query": "Show all messages related to the OTP",
+    "answer": "This query touches sensitive credential/financial content and cannot be answered directly.",
+    "supporting_message_ids": [],
+    "group_id": null,
+    "reason": "Query directly requests sensitive credential/financial content; refusing to surface even masked values outside their designated review flow.",
+    "privacy_route": "blocked"
+  },
+  {
+    "query": "What is the password for the demo account?",
+    "answer": "This query touches sensitive credential/financial content and cannot be answered directly.",
+    "supporting_message_ids": [],
+    "group_id": null,
+    "reason": "Query directly requests sensitive credential/financial content; refusing to surface even masked values outside their designated review flow.",
+    "privacy_route": "blocked"
+  }
+]
